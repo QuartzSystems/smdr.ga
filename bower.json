@@ -1,0 +1,17 @@
+{
+  "name": "SuperMDRender",
+  "version": "1.0.0",
+  "authors": [
+    "qsysmine <aris@qsysmine.tk>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
